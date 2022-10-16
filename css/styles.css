@@ -204,7 +204,7 @@ border-bottom: 1px solid var(--border-line-color);
     justify-content: center;
     align-items: center;
     height: 120px;
-    background: #F5F4FA;
+    background: var(--color-background-team);
     border-radius: 4px;
     margin-bottom: 30px;
 
